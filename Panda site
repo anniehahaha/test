@@ -1,9 +1,14 @@
 <html>
     <title> Panda </title>
     <body>
+<header> Panda is a cutest animal!!!!!!!!!</header>
+<main>
 <table>
 <tr>
 <td> Day of the week </td>
 <td> Activities </td>
 </tr> 
+</main> 
+<footer> Contact number: 0000xxxx112233</footer>
+</body>
 </html>
